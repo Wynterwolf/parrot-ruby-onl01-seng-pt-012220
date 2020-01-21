@@ -4,4 +4,4 @@ def parrot(string = "Squawk!")
   puts "I'm a bird, I go #{string}!"
 end
 
-parrot(What)
+parrot("What?")
