@@ -3,6 +3,3 @@
 def parrot(string = "Squawk!")
  "#{string}"
 end
-
-parrot
-parrot("Pretty bird!")
