@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(say_this = "Squawk!")
   puts "#{say_this}"
+  return "#{say_this}"
 end
